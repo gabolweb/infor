@@ -1,3 +1,0 @@
-# legacy
-# infor
-# infor
